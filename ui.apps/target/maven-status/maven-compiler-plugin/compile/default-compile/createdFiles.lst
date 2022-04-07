@@ -4,3 +4,5 @@ org\apache\sling\scripting\sightly\apps\mysite\components\page\customfooterlibs_
 org\apache\sling\scripting\sightly\apps\mysite\components\xfpage\customfooterlibs__002e__html.class
 org\apache\sling\scripting\sightly\apps\mysite\components\xfpage\customheaderlibs__002e__html.class
 org\apache\sling\scripting\sightly\apps\mysite\components\helloworld\helloworld__002e__html.class
+org\apache\sling\scripting\sightly\apps\mysite\components\header\header__002e__html.class
+org\apache\sling\scripting\sightly\apps\mysite\components\page\body__002e__html.class

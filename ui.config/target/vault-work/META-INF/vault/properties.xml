@@ -4,7 +4,7 @@
 <comment>My Site - UI config</comment>
 <entry key="cloudManagerTarget">none</entry>
 <entry key="allowIndexDefinitions">false</entry>
-<entry key="created">2022-04-06T18:19:25.620Z</entry>
+<entry key="created">2022-04-07T22:06:46.288Z</entry>
 <entry key="groupId">com.mysite</entry>
 <entry key="name">mysite.ui.config</entry>
 <entry key="description">UI config package for My Site</entry>
