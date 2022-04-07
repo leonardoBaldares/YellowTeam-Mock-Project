@@ -5,7 +5,7 @@
 <entry key="allowIndexDefinitions">false</entry>
 <entry key="acHandling">merge</entry>
 <entry key="dependencies-locations">com.mysite:mysite.ui.apps:1.0.0-SNAPSHOT=maven:com.mysite:mysite.ui.apps:1.0.0-SNAPSHOT:zip</entry>
-<entry key="created">2022-04-07T22:06:44.697Z</entry>
+<entry key="created">2022-04-07T22:54:21.430Z</entry>
 <entry key="groupId">com.mysite</entry>
 <entry key="description">UI content package for My Site</entry>
 <entry key="version">1.0.0-SNAPSHOT</entry>
